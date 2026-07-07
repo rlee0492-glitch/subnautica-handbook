@@ -1,0 +1,97 @@
+{
+    "Fauna": [
+        {
+            "name": "Ghost Leviathan",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Crater Edge",
+                "Grand Reef",
+                "Northern Blood Kelp Zone"
+            ]
+        },
+        {
+            "name": "Ghost Leviathan Juvenile",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Bone Fields",
+                "Ghost Forest",
+                "Mountains Corridor"
+            ]
+        },
+        {
+            "name": "Reaper Leviatihan",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Bulb Zone",
+                "Crash Zone",
+                "Crash Zone Mesas",
+                "Dunes",
+                "Mountains"
+            ]
+        },
+        {
+            "name": "Reefback Leviathan",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Blood Kelp Zone",
+                "Bulb Zone",
+                "Crag Field",
+                "Grassy Plateaus",
+                "Mushroom Forest",
+                "Sparse Reef",
+                "Underwater Islands"
+            ]
+        },
+        {
+            "name": "Reefback Leviathan Juvenile",
+            "behavior": "Passive",
+            "biomes": [
+                "Blood Kelp Zone",
+                "Bulb Zone",
+                "Crag Field",
+                "Grassy Plateaus",
+                "Mushroom Forest",
+                "Sparse Reef",
+                "Underwater Islands"
+            ]
+        },
+        {
+            "name": "Sea Dragon Leviathan",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Inactive Lava Zone",
+                "Lava Lakes"
+            ]
+        },
+        {
+            "name": "Sea Emperor Leviathan",
+            "behavior": "Passive",
+            "biomes": "Primary Containment Facility Aquarium"
+        },
+        {
+            "name": "Sea Emperor Leviathan Baby",
+            "behavior": "Passive",
+            "biomes": "Primary Containment Facility Aquarium"
+        },
+        {
+            "name": "Sea Emperor Leviathan Juvenile",
+            "behavior": "Passive",
+            "biomes": [
+                "Northern Blood Kelp Zone",
+                "Crag Field",
+                "Dunes",
+                "Grand Reef",
+                "Mountains"
+            ]
+        },
+        {
+            "name": "Sea Trader Leviathan",
+            "behavior": "Passive",
+            "biomes": [
+                "Grand Reef",
+                "Sea Treader's Path",
+                "Sea Treader's Tunnel Caves"
+            ]
+        }
+    ]
+}

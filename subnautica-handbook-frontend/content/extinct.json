@@ -1,0 +1,33 @@
+{
+    "Fauna": [
+        {
+            "name": "Alpha Ray Species",
+            "age": "Unknown",
+            "biomes": [
+                "N/A"
+            ]
+        },
+        {
+            "name": "Ancient Skeleton",
+            "age": "-1,000,000 years",
+            "biomes": [
+                "Lost River Laboratory Cache"
+            ]
+        },
+        {
+            "name": "Gargantuan Fossil",
+            "age": "-3,000,000 years",
+            "biomes": [
+                "Bone Fields",
+                "Ghost Forest"
+            ] 
+        },
+        {
+            "name": "Research Specimen",
+            "age": "-1,000 years",
+            "biomes": [
+                "Disease Research Facility"
+            ]
+        }
+    ]
+}

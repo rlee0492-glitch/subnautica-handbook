@@ -1,0 +1,134 @@
+{
+    "Fauna": [
+        {
+            "name": "Ampeel",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Blood Kelp Caves",
+                "Blood Kelp Zone",
+                "Bulb Zone"
+            ]
+        },
+        {
+            "name": "Biter",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Crash Zone Mesas",
+                "Grassy Plateaus",
+                "Grassy Plateaus Caves",
+                "Jellyshroom Cave",
+                "Mountains",
+                "Mountains Caves"
+            ]
+        },
+        {
+            "name": "Blighter",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Blood Kelp Caves",
+                "Blood Kelp Zone"
+            ]
+        },
+        {
+            "name": "Boneshark",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Bulb Zone",
+                "Crag Field",
+                "Crash Zone Mesas",
+                "Mushroom Forest",
+                "Primary Containment Facility Aquarium",
+                "Underwater Islands"
+            ]
+        },
+        {
+            "name": "Crabsnake",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Jellyshroom Cave"
+            ]
+        },
+        {
+            "name": "CrabSquid",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Deep Grand Reef",
+                "Northern Blood Kelp Caves",
+                "Northern Blood Kelp Zone",
+                "Lost River"
+            ]
+        },
+        {
+            "name": "Crashfish",
+            "behavior": "Defensive",
+            "biomes": [
+                "Kelp Forest Caves",
+                "Safe Shallows Caves"
+            ]
+        },
+        {
+            "name": "Lava Lizard",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Inactive Lava Zone Corridor",
+                "Inactive Lava Zone",
+                "Lava Lakes",
+                "Lava Castle"
+            ]
+        },
+        {
+            "name": "Mesmer",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Bulb Zone",
+                "Crag Field",
+                "Kelp Forest Caves",
+                "Lost River",
+                "Northeastern Mushroom Forest"
+            ]
+        },
+        {
+            "name": "River Prowler",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Lost River"
+            ]
+        },
+        {
+            "name": "Sand Shark",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Crash Zone",
+                "Dunes",
+                "Grassy Plateaus"
+            ]
+        },
+        {
+            "name": "Stalker",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Crash Zone",
+                "Kelp Forest",
+                "Kelp Forest Caves",
+                "Primary Containment Facility Aquarium"
+            ]
+        },
+        {
+            "name": "Warper",
+            "behavior": "Aggressive (if target has Kharaa), Passive (if target is not infected)",
+            "biomes": [
+                "Blood Kelp Caves",
+                "Blood Kelp Zone",
+                "Deep Grand Reef",
+                "Dunes",
+                "Grand Reef",
+                "Inactive Lava Zone",
+                "Inactive Lava Zone Corridor",
+                "Lava Lakes",
+                "Lost River",
+                "Mountain Island",
+                "Sea Treader's Path"
+            ]
+        }
+    ]
+}

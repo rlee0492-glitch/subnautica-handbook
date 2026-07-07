@@ -1,7 +1,25 @@
-import Image from "next/image";
+import fs from "fs";
+import path from "path";
+import { GalleryCard } from "@/components";
+
+type Entry = { name: string; behavior: string; biomes: string[] };
 
 export default function Home() {
+
+  const filePath = path.join(process.cwd(), "content", "/carnivores.json");
+  const jsonData = fs.readFileSync(filePath, "utf-8");
+  const entries : Entry[] = JSON.parse(jsonData).Fauna;
+  const test = JSON.parse(jsonData);
+
   return (
+    <div className="w-full h-full flex flex-col justify-center item-center">
+      {
+        entries.map((entry: Entry, i: Number) => (
+          <GalleryCard key={i.toString()} entry={entry} />
+        ))
+      }
+    </div>
+    /*
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
         <Image
@@ -61,5 +79,6 @@ export default function Home() {
         </div>
       </main>
     </div>
+    */
   );
 }

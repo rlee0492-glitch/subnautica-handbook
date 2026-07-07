@@ -1,0 +1,105 @@
+{
+    "Fauna": [
+        {
+            "name" : "Amoeboid",
+            "behavior": "Passive",
+            "biomes": [
+                "Disease Research Facility",
+                "Lost River",
+                "Lost River Laboratory"
+            ]
+        },
+        {
+            "name" : "Ancient Floater",
+            "behavior": "Passive",
+            "biomes": [
+                "Floating Island",
+                "Northern Blood Kelp Zone",
+                "Underwater Islands"
+            ]
+        },
+        {
+           "name" : "Bleeder",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Aurora",
+                "Deep Sparse Reef",
+                "Kelp Forest",
+                "Kelp Forest Caves",
+                "Lost River"
+            ]
+        },
+        {
+            "name" : "Blood Crawler",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Blood Kelp Zone",
+                "Blood Kelp Caves",
+                "Lost River"
+            ]
+        },
+        {
+            "name": "Cave Crawler",
+            "behavior": "Aggressive",
+            "biomes": [
+                "Aurora",
+                "Dunes",
+                "Dunes Caves",
+                "Floating Island",
+                "Mountain Island",
+                "Primary Containment Facility Aquarium",
+                "Underwater Islands Caves"
+            ]
+        },
+        {
+            "name": "Floater",
+            "behavior": "Defensive",
+            "biomes": [
+                "Grassy Plataeus",
+                "Safe Shallows"
+            ]
+        },
+        {
+            "name": "Lava Larva",
+            "behavior": "Passive",
+            "biomes": [
+                "Inactive Lava Zone",
+                "Inactive Lava Zone Corridor",
+                "Lava Lakes"
+            ]
+        },
+        {
+            "name": "Rock Grub",
+            "behavior": "Passive",
+            "biomes": [
+                "Bulb Zone Caves",
+                "Deep Sparse Reef",
+                "Dunes",
+                "Dunes Caves",
+                "Grassy Plateaus Caves",
+                "Mountains Caves"
+            ]
+        },
+        {
+            "name": "Shuttlebug",
+            "behavior": "Passive",
+            "biomes": [
+                "Bulb Zone",
+                "Crag Field",
+                "Crash Zone",
+                "Deep Sparse Reef",
+                "Dunes",
+                "Dunes Caves",
+                "Grassy Plateaus Caves",
+                "Mountains",
+                "Mountains Caves",
+                "Mushroom Forest Caves",
+                "Primary Containment Facility Aquarium",
+                "Safe Shallows Caves",
+                "Sea Treader's Path",
+                "Sea Treader's Tunnel Caves",
+                "Sparse Reef"
+            ]
+        }
+    ]
+}
