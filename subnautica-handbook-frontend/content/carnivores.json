@@ -7,7 +7,8 @@
                 "Blood Kelp Caves",
                 "Blood Kelp Zone",
                 "Bulb Zone"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/9/9e/Ampeel_Fauna.png"
         },
         {
             "name": "Biter",
@@ -19,7 +20,8 @@
                 "Jellyshroom Cave",
                 "Mountains",
                 "Mountains Caves"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/b/bd/Biter_Fauna.png"
         },
         {
             "name": "Blighter",
@@ -27,7 +29,9 @@
             "biomes": [
                 "Blood Kelp Caves",
                 "Blood Kelp Zone"
-            ]
+            ],
+            
+            "image": "https://static.wikia.nocookie.net/subnautica/images/1/1d/Blighter_Fauna.png"
         },
         {
             "name": "Boneshark",
@@ -39,14 +43,16 @@
                 "Mushroom Forest",
                 "Primary Containment Facility Aquarium",
                 "Underwater Islands"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/0/0e/Boneshark_Fauna.png"
         },
         {
             "name": "Crabsnake",
             "behavior": "Aggressive",
             "biomes": [
                 "Jellyshroom Cave"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/f/f7/Crabsnake_Fauna.png"
         },
         {
             "name": "CrabSquid",
@@ -56,7 +62,8 @@
                 "Northern Blood Kelp Caves",
                 "Northern Blood Kelp Zone",
                 "Lost River"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/b/b0/Crabsquid_Fauna.png"
         },
         {
             "name": "Crashfish",
@@ -64,7 +71,8 @@
             "biomes": [
                 "Kelp Forest Caves",
                 "Safe Shallows Caves"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/2/21/Crashfish_Fauna.png"
         },
         {
             "name": "Lava Lizard",
@@ -74,7 +82,8 @@
                 "Inactive Lava Zone",
                 "Lava Lakes",
                 "Lava Castle"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/4/4f/Lava_Lizard_Fauna.png"
         },
         {
             "name": "Mesmer",
@@ -85,14 +94,16 @@
                 "Kelp Forest Caves",
                 "Lost River",
                 "Northeastern Mushroom Forest"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/b/b3/Mesmer_Fauna.png"
         },
         {
             "name": "River Prowler",
             "behavior": "Aggressive",
             "biomes": [
                 "Lost River"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/b/b3/River_Prowler_Fauna.png"
         },
         {
             "name": "Sand Shark",
@@ -101,7 +112,8 @@
                 "Crash Zone",
                 "Dunes",
                 "Grassy Plateaus"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/b/bb/Sand_Shark_Fauna.png"
         },
         {
             "name": "Stalker",
@@ -111,7 +123,8 @@
                 "Kelp Forest",
                 "Kelp Forest Caves",
                 "Primary Containment Facility Aquarium"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/f/f4/Stalker_Fauna.png"
         },
         {
             "name": "Warper",
@@ -128,7 +141,8 @@
                 "Lost River",
                 "Mountain Island",
                 "Sea Treader's Path"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/e/ed/Warper_Fauna.png"
         }
     ]
 }

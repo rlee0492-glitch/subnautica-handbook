@@ -14,7 +14,8 @@
                 "Mushroom Forest",
                 "Primary Containment Facility Aquarium",
                 "Safe Shallows"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/f/f4/Bladderfish_Fauna.png"
         },
         {
             "name": "Boomerang",
@@ -36,7 +37,8 @@
                 "Sea Treader's Path",
                 "Sea Treader's Tunnel Caves",
                 "Underwater Islands"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/6/6e/Boomerang_Fauna.png"
         },
         {
             "name": "Crimson Ray",
@@ -44,7 +46,8 @@
             "biomes": [
                 "Inactive Lava Zone",
                 "Lava Lakes"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/c/c8/Crimson_Ray_Fauna.png"
         },
         {
             "name": "Cuddlefish",
@@ -54,7 +57,8 @@
                 "Dunes Sinkhole",
                 "Lost River Laboratory Cache",
                 "Mushroom Forest Caves"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/b/bb/Cuddlefish_Fauna.png"
         },
         {
             "name": "Eyeye",
@@ -70,7 +74,8 @@
                 "Kelp Forest Caves",
                 "Sea Treader's Path",
                 "Sea Treader's Tunnel Caves"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/d/d2/Eyeye_Fauna.png"
         },
         {
             "name": "Garryfish",
@@ -82,7 +87,8 @@
                 "Safe Shallows",
                 "Safe Shallows Caves",
                 "Underwater Islands"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/c/c0/Garryfish_Fauna.png"
         },
         {
             "name": "Gasopod",
@@ -91,14 +97,16 @@
                 "Crash Zone Mesas",
                 "Dunes",
                 "Safe Shallows"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/b/ba/Gasopod_Fauna.png"
         },
         {
             "name": "Ghostray",
             "behavior": "Passive",
             "biomes": [
                 "Lost River"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/2/2d/Ghostray_Fauna.png"
         },
         {
             "name": "Holefish",
@@ -110,7 +118,8 @@
                 "Primary Containment Facility Aquarium",
                 "Safe Shallows",
                 "Safe Shallows Caves"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/1/13/Holefish_Fauna.png"
         },
         {
             "name": "Hoopfish",
@@ -128,7 +137,8 @@
                 "Sea Treader's Path",
                 "Sea Treader's Tunnel Caves",
                 "Underwater Islands"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/7/72/Hoopfish_Fauna.png"
         },
         {
             "name": "Hoverfish",
@@ -138,7 +148,8 @@
                 "Crash Zone Mesas",
                 "Kelp Forest",
                 "Primary Containment Facility Aquarium"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/1/1e/Hoverfish_Fauna.png"
         },
         {
             "name": "Jellyray",
@@ -146,7 +157,8 @@
             "biomes": [
                 "Deep Grand Reef",
                 "Mushroom Forest"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/d/d2/Jellyray_Fauna.png"
         },
         {
             "name": "Magmarang",
@@ -155,7 +167,8 @@
                 "Inactive Lava Zone",
                 "Inactive Lava Zone Corridor",
                 "Lava Lakes"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/b/b4/Magmarang_Fauna.png"
         },
         {
             "name": "Oculus",
@@ -163,7 +176,8 @@
             "biomes": [
                 "Jellyshroom Cave",
                 "Primary Containment Facility Aquarium"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/d/d5/Oculus_Fauna.png"
         },
         {
             "name": "Peeper",
@@ -183,7 +197,8 @@
                 "Sea Treader's Path",
                 "Sparse Reef",
                 "Primary Containment Facility Aquarium"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/b/be/Peeper_Fauna.png"
         },
         {
             "name": "Rabbit Ray",
@@ -194,7 +209,8 @@
                 "Kelp Forest",
                 "Primary Containment Facility Aquarium",
                 "Safe Shallows"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/9/99/Rabbit_Ray_Fauna.png"
         },
         {
             "name": "Red Eyeye",
@@ -203,7 +219,8 @@
                 "Inactive Lava Zone",
                 "Inactive Lava Zone Corridor",
                 "Lava Lakes"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/c/c4/Red_Eyeye_Fauna.png"
         },
         {
             "name": "Reginald",
@@ -221,7 +238,8 @@
                 "Primary Containment Facility Aquarium",
                 "Sea Treader's Path",
                 "Sparse Reef"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/8/8a/Reginald_Fauna.png"
         },
         {
             "name": "Skyray",
@@ -231,7 +249,8 @@
                 "Floating Island",
                 "Mountain Island",
                 "Lifepod 5"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/6/6b/Skyray_Fauna.png"
         },
         {
             "name": "Spadefish",
@@ -247,7 +266,8 @@
                 "Sea Treader's Tunnel Caves",
                 "Sparse Reef",
                 "Underwater Islands"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/5/54/Spadefish_Fauna.png"
         },
         {
             "name": "Spinefish",
@@ -257,7 +277,8 @@
                 "Blood Kelp Zone",
                 "Lost River",
                 "Bone Fields Caves"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/1/1d/Spinefish_Fauna.png"
         }
     ]
 }

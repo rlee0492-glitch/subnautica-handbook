@@ -1,8 +1,8 @@
 import fs from "fs";
 import path from "path";
-import { GalleryCard } from "@/components";
+import { GalleryContainer } from "@/components";
 
-type Entry = { name: string; behavior: string; biomes: string[] };
+type Entry = { name: string; behavior: string; biomes: string[]; image: string };
 
 export default function Home() {
 
@@ -13,11 +13,32 @@ export default function Home() {
 
   return (
     <div className="w-full h-full flex flex-col justify-center item-center">
+      <GalleryContainer title="Carnivores" entries={entries} />
+      {/* <h1 className="font-bold text-center">Carnivores</h1> */}
+      {/* {
+        entries.map((entry: Entry, i: Number) => (
+          <GalleryContainer key={i.toString()} entry={entry} />
+        ))
+      } */}
+
+      {/* <h1 className="font-bold text-center">Carnivores</h1>
+      {
+        entries.map((entry: Entry, i: Number) => (
+          <div key={i.toString()}>
+            <div className="text-center">{entry.name}</div>
+            <img src={entry.image}></img>
+          </div>
+        ))
+      } */
+      /*
+      <h1 className="font-bold text-center">Herbivores</h1>
       {
         entries.map((entry: Entry, i: Number) => (
           <GalleryCard key={i.toString()} entry={entry} />
         ))
       }
+        */}
+
     </div>
     /*
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">

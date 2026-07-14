@@ -7,7 +7,8 @@
                 "Crater Edge",
                 "Grand Reef",
                 "Northern Blood Kelp Zone"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/5/5d/Ghost_Leviathan_Fauna.png"
         },
         {
             "name": "Ghost Leviathan Juvenile",
@@ -16,7 +17,8 @@
                 "Bone Fields",
                 "Ghost Forest",
                 "Mountains Corridor"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/5/5d/Ghost_Leviathan_Fauna.png"
         },
         {
             "name": "Reaper Leviatihan",
@@ -27,7 +29,8 @@
                 "Crash Zone Mesas",
                 "Dunes",
                 "Mountains"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/e/eb/Reaper_Leviathan_Fauna.png"
         },
         {
             "name": "Reefback Leviathan",
@@ -40,7 +43,8 @@
                 "Mushroom Forest",
                 "Sparse Reef",
                 "Underwater Islands"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/7/72/Reefback_Leviathan_Fauna.png"
         },
         {
             "name": "Reefback Leviathan Juvenile",
@@ -53,7 +57,8 @@
                 "Mushroom Forest",
                 "Sparse Reef",
                 "Underwater Islands"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/c/c9/Reefback_Leviathan_Juvenile_Fauna.png"
         },
         {
             "name": "Sea Dragon Leviathan",
@@ -61,17 +66,21 @@
             "biomes": [
                 "Inactive Lava Zone",
                 "Lava Lakes"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/a/a3/Sea_Dragon_Leviathan_Fauna.png"
         },
         {
             "name": "Sea Emperor Leviathan",
             "behavior": "Passive",
-            "biomes": "Primary Containment Facility Aquarium"
+            "biomes": ["Primary Containment Facility Aquarium"],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/4/4e/Sea_Emperor_Leviathan_Fauna.png"
+            
         },
         {
             "name": "Sea Emperor Leviathan Baby",
             "behavior": "Passive",
-            "biomes": "Primary Containment Facility Aquarium"
+            "biomes": ["Primary Containment Facility Aquarium"],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/e/ed/Sea_Emperor_Leviathan_Baby_Fauna.png"
         },
         {
             "name": "Sea Emperor Leviathan Juvenile",
@@ -82,7 +91,8 @@
                 "Dunes",
                 "Grand Reef",
                 "Mountains"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/8/86/Sea_Emperor_Leviathan_Juvenile_Fauna.png"
         },
         {
             "name": "Sea Trader Leviathan",
@@ -91,7 +101,8 @@
                 "Grand Reef",
                 "Sea Treader's Path",
                 "Sea Treader's Tunnel Caves"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/d/da/Sea_Treader_Leviathan_Fauna.png"
         }
     ]
 }

@@ -5,14 +5,16 @@
             "age": "Unknown",
             "biomes": [
                 "N/A"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/a/a7/Alpha_Ray_Species_Fauna.png"
         },
         {
             "name": "Ancient Skeleton",
             "age": "-1,000,000 years",
             "biomes": [
                 "Lost River Laboratory Cache"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/f/f0/Ancient_Skeleton_Fauna.png"
         },
         {
             "name": "Gargantuan Fossil",
@@ -20,14 +22,16 @@
             "biomes": [
                 "Bone Fields",
                 "Ghost Forest"
-            ] 
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/6/6b/Gargantuan_Fossil_Fauna.png"
         },
         {
             "name": "Research Specimen",
             "age": "-1,000 years",
             "biomes": [
                 "Disease Research Facility"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/c/ce/Research_Specimen_Theta_Fauna.png"
         }
     ]
 }

@@ -7,7 +7,8 @@
                 "Disease Research Facility",
                 "Lost River",
                 "Lost River Laboratory"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/e/e0/Amoeboid_Fauna.png"
         },
         {
             "name" : "Ancient Floater",
@@ -16,7 +17,8 @@
                 "Floating Island",
                 "Northern Blood Kelp Zone",
                 "Underwater Islands"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/1/1c/Ancient_Floater_Fauna.png"
         },
         {
            "name" : "Bleeder",
@@ -27,7 +29,8 @@
                 "Kelp Forest",
                 "Kelp Forest Caves",
                 "Lost River"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/9/9d/Bleeder_Fauna.png"
         },
         {
             "name" : "Blood Crawler",
@@ -36,7 +39,8 @@
                 "Blood Kelp Zone",
                 "Blood Kelp Caves",
                 "Lost River"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/e/eb/Blood_Crawler_Fauna.png"
         },
         {
             "name": "Cave Crawler",
@@ -49,7 +53,8 @@
                 "Mountain Island",
                 "Primary Containment Facility Aquarium",
                 "Underwater Islands Caves"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/4/43/Cave_Crawler_Fauna.png"
         },
         {
             "name": "Floater",
@@ -57,7 +62,8 @@
             "biomes": [
                 "Grassy Plataeus",
                 "Safe Shallows"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/f/f8/Floater_Fauna.png"
         },
         {
             "name": "Lava Larva",
@@ -66,7 +72,8 @@
                 "Inactive Lava Zone",
                 "Inactive Lava Zone Corridor",
                 "Lava Lakes"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/c/cb/Lava_Larva_Fauna.png"
         },
         {
             "name": "Rock Grub",
@@ -78,7 +85,8 @@
                 "Dunes Caves",
                 "Grassy Plateaus Caves",
                 "Mountains Caves"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/e/e6/Rockgrub_Fauna.png"
         },
         {
             "name": "Shuttlebug",
@@ -99,7 +107,8 @@
                 "Sea Treader's Path",
                 "Sea Treader's Tunnel Caves",
                 "Sparse Reef"
-            ]
+            ],
+            "image": "https://static.wikia.nocookie.net/subnautica/images/5/55/Shuttlebug_Fauna.png"
         }
     ]
 }
