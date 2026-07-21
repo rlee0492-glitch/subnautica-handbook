@@ -8,7 +8,7 @@ type GalleryCardProps = {
 
 export default function GalleryCard({ entry } : GalleryCardProps) {
     return (
-        <div className="mx-auto bg-blue-300 w-full h-fit rounded-lg">
+        <div className="mx-auto bg-cyan-700 w-full h-fit rounded-lg">
             {/* Card will have image at top then name below it */}
             <div className="relative h-30">
               <Image
